@@ -1,2 +1,20 @@
+# Hi, I'm Anant Yadav 👋
 
+### 🕹️ Game Developer & CSE Student at GBU
+I am a highly motivated student pursuing my B.Tech at Gautam Buddha University. My goal is to build a premier AAA game studio and I am currently working on the **AINCRAD** prototype.
+
+---
+
+### 🚀 Projects
+*   **AINCRAD**: AAA Game Prototype.
+*   **Driver Safety Alarm**: Arduino-based detection system.
+*   **FPS Movement System**: High-fidelity mechanics in Unreal Engine.
+
+### 🛠️ Skills
+*   **Languages:** C++, C#, Java, C
+*   **Specialties:** Game Architecture, DSA, and OOP
+*   **Tools:** Unreal Engine, Unity
+
+---
+📫 **Connect:** [yadavanant389@gmail.com](mailto:yadavanant389@gmail.com)
 
