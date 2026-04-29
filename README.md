@@ -1,6 +1,6 @@
 # Hi, I'm Anant Yadav 👋
 
-### 🕹️ Game Developer & CSE Student at GBU
+### 🕹️ Game Developer & CSE Student 
 I am a highly motivated student pursuing my B.Tech at Gautam Buddha University. My goal is to build a premier AAA game studio and I am currently working on the **AINCRAD** prototype.
 
 ---
