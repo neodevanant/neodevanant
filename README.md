@@ -6,7 +6,7 @@ I am a highly motivated student pursuing my B.Tech in computer science. My goal 
 ---
 
 ### 🚀 Projects
-*   **AINCRAD**: AAA Game Prototype.
+*   **AINCRAD**: indie Game Prototype.
 *   **FPS Movement System**: High-fidelity mechanics in Unreal Engine.
 
 ### 🛠️ Skills
