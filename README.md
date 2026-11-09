@@ -13,7 +13,7 @@ Currently, I'm focused on developing **RogueEngine3D**, my own game engine built
 ### 🚀 Projects
 
 - **[RogueEngine3D](https://github.com/neodevanant/RogueEngine3D)** — A custom game engine built from scratch using C++ and OpenGL. Long-term vision: AI-powered simulations and intelligent 3D environments.
-- **AINCRAD** — An indie game prototype.
+
 - **FPS Movement System** — A first-person movement mechanics project developed in Unreal Engine.
 
 ---
